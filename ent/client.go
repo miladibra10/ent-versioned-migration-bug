@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"log"
 
-	"entgo.io/bug/ent/migrate"
+	"github.com/miladibra10/ent-versioned-migration-bug/ent/migrate"
 
-	"entgo.io/bug/ent/user"
+	"github.com/miladibra10/ent-versioned-migration-bug/ent/user"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"

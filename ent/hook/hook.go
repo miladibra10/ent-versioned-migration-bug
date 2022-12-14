@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"entgo.io/bug/ent"
+	"github.com/miladibra10/ent-versioned-migration-bug/ent"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary

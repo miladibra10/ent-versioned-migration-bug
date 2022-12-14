@@ -2,7 +2,7 @@
 
 package runtime
 
-// The schema-stitching logic is generated in entgo.io/bug/ent/runtime.go
+// The schema-stitching logic is generated in github.com/miladibra10/ent-versioned-migration-bug/ent/runtime.go
 
 const (
 	Version = "v0.11.3-0.20220915211011-0adfb94c30c7"           // Version of ent codegen.

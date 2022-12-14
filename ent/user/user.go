@@ -11,6 +11,8 @@ const (
 	FieldAge = "age"
 	// FieldName holds the string denoting the name field in the database.
 	FieldName = "name"
+	// FieldLastName holds the string denoting the last_name field in the database.
+	FieldLastName = "last_name"
 	// Table holds the table name of the user in the database.
 	Table = "users"
 )
@@ -20,6 +22,7 @@ var Columns = []string{
 	FieldID,
 	FieldAge,
 	FieldName,
+	FieldLastName,
 }
 
 // ValidColumn reports if the column name is valid (part of the table columns).

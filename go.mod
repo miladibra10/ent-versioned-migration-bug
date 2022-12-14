@@ -1,4 +1,4 @@
-module entgo.io/bug
+module github.com/miladibra10/ent-versioned-migration-bug
 
 go 1.18
 

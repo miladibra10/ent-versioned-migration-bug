@@ -7,10 +7,10 @@ import (
 	"errors"
 	"fmt"
 
-	"entgo.io/bug/ent/user"
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
+	"github.com/miladibra10/ent-versioned-migration-bug/ent/user"
 )
 
 // ent aliases to avoid import conflicts in user's code.
